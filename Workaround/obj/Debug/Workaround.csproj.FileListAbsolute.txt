@@ -1,0 +1,2 @@
+C:\Users\pc\OneDrive\Masaüstü\EnginDemirog\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\EnginDemirog\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
